@@ -1,0 +1,5 @@
+<root>
+    <item name='com.fasterxml.jackson.core.type.TypeReference'>
+        <annotation name='java.lang.Deprecated'/>
+    </item>
+</root>

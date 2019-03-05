@@ -1,0 +1,156 @@
+[
+  {
+    "amount": 100.0,
+    "time": "2019-02-25T19:40:44.6472411",
+    "id": 2,
+    "fundsType": "Income",
+    "category": "Rent"
+  },
+  {
+    "amount": 535.0,
+    "time": "2019-02-25T19:40:52.0794186",
+    "id": 3,
+    "fundsType": "Income",
+    "category": "Grant"
+  },
+  {
+    "amount": 600.0,
+    "time": "2019-02-25T19:43:17.7756122",
+    "id": 6,
+    "fundsType": "Income",
+    "category": "Gift"
+  },
+  {
+    "amount": 100.0,
+    "time": "2019-02-25T19:43:54.1914464",
+    "id": 9,
+    "fundsType": "Costs",
+    "category": "Shops"
+  },
+  {
+    "amount": 300.0,
+    "time": "2019-02-25T19:44:02.3432579",
+    "id": 11,
+    "fundsType": "Costs",
+    "category": "House"
+  },
+  {
+    "amount": 400.0,
+    "time": "2019-02-25T19:44:09.4069174",
+    "id": 12,
+    "fundsType": "Costs",
+    "category": "Studies"
+  },
+  {
+    "amount": 500.0,
+    "time": "2019-02-25T19:44:16.1353607",
+    "id": 13,
+    "fundsType": "Costs",
+    "category": "Fun"
+  },
+  {
+    "amount": 600.0,
+    "time": "2019-02-25T19:44:21.42236",
+    "id": 14,
+    "fundsType": "Costs",
+    "category": "Car"
+  },
+  {
+    "amount": 900.0,
+    "time": "2019-02-25T19:44:40.9274735",
+    "id": 17,
+    "fundsType": "Costs",
+    "category": "Other"
+  },
+  {
+    "amount": 2000.0,
+    "time": "2019-02-25T19:45:41.2429633",
+    "id": 18,
+    "fundsType": "Income",
+    "category": "Salary"
+  },
+  {
+    "amount": 3333.0,
+    "time": "2019-02-28T00:53:55.6509817",
+    "id": 20,
+    "fundsType": "Income",
+    "category": "Other"
+  },
+  {
+    "amount": 75.0,
+    "time": "2019-02-28T02:29:35.6191202",
+    "id": 23,
+    "fundsType": "Costs",
+    "category": "House"
+  },
+  {
+    "amount": 2000.0,
+    "time": "2019-02-28T23:45:38.4779723",
+    "id": 26,
+    "fundsType": "Income",
+    "category": "Salary"
+  },
+  {
+    "amount": 2222.0,
+    "time": "2019-03-03T00:27:45.220886",
+    "id": 27,
+    "fundsType": "Income",
+    "category": "Salary"
+  },
+  {
+    "amount": 1.0,
+    "time": "2019-03-03T00:27:51.8908952",
+    "id": 28,
+    "fundsType": "Income",
+    "category": "Grant"
+  },
+  {
+    "amount": 44.0,
+    "time": "2019-03-03T01:25:32.7188499",
+    "id": 29,
+    "fundsType": "Income",
+    "category": "Salary"
+  },
+  {
+    "amount": 1.0,
+    "time": "2019-03-03T01:25:36.2600561",
+    "id": 30,
+    "fundsType": "Income",
+    "category": "Grant"
+  },
+  {
+    "amount": 99.0,
+    "time": "2019-03-03T01:26:37.0845622",
+    "id": 31,
+    "fundsType": "Income",
+    "category": "Other"
+  },
+  {
+    "amount": 55.0,
+    "time": "2019-03-03T01:53:38.3329889",
+    "id": 32,
+    "fundsType": "Income",
+    "category": "Gift"
+  },
+  {
+    "amount": 111.0,
+    "time": "2019-03-03T01:53:47.9114056",
+    "id": 33,
+    "fundsType": "Costs",
+    "category": "Health"
+  },
+  {
+    "amount": 333.0,
+    "time": "2019-03-04T02:00:38.0231793",
+    "id": 34,
+    "fundsType": "Income",
+    "category": "Other"
+  },
+  {
+    "amount": 500.0,
+    "time": "2019-03-04T02:00:50.2231961",
+    "id": 35,
+    "fundsType": "Costs",
+    "category": "Travel"
+  }
+]
